@@ -22,4 +22,4 @@ for (let n in filterResult) {
 }
 const averageNumber = total / li
 
-console.log(averageNumber)
+console.log('Cреднее арифметическое положительных элементов:', averageNumber)
