@@ -10,7 +10,7 @@
 
 > Был использован метод масива [.sort()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort), для рандомной сортировки элементов массива.
 
-> Был использован метод масива [.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice), для преобразования массива из 41 элементов в 10.
+> Был использован метод масива [.slice()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice).
 
 3 Меняю местами первый и минимальный элементы.
 
