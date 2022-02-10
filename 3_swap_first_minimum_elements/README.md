@@ -16,13 +16,13 @@
 
 > Был использован метод [Math.max](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/max), для нахождения минимального элемента массива.
 
-1. [Math.max](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/max) возвращает наибольшее значение из аргументов.
+1. [Math.max](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Math/max) возвращает наименьшее значение из аргументов.
 
 2. чтобы передать массив вместо списка, используется [apply()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 
-3. получив само наибольшее значение, остаётся найти его индекс в массиве через метод массива [indexOf()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf).
+3. получив само наименьшее значение, остаётся найти его индекс в массиве через метод массива [indexOf()](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/String/indexOf).
 
-Не очень эффективно, т.к. фактически массив перебирается дважды: в поиске максимума и в поиске индекса. Можно сделать за один проход, запоминая вместе с найденным максимальным значением его позицию: Функция [index_max()](https://github.com/Konkin-Ivan/js-arrays/tree/main/3_swap_first_minimum_elements/function-index-max.js).
+Не очень эффективно, т.к. фактически массив перебирается дважды: в поиске минимума и в поиске индекса. Можно сделать за один проход, запоминая вместе с найденным минимальным значением его позицию: Функция [indexMin()](https://github.com/Konkin-Ivan/js-arrays/tree/main/3_swap_first_minimum_elements/function-index-min.js).
 
 ```js
 function indexMin() {
