@@ -7,20 +7,20 @@
 ### Одномерные массивы
 
 1. Сформировать массив из 15 целых чисел, выбранных случайным образом из
-интервала [-10, 30]. Найти среднее арифметическое положительных элементов. [Код репозитория](https://github.com/Konkin-Ivan/js-arrays/tree/main/array-of-15).
+интервала [-10, 30]. Найти среднее арифметическое положительных элементов. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/array_of_15).
 
 2. Сформировать массив из 10 целых чисел, выбранных случайным образом из
-интервала [10, 50]. Найти максимальный среди элементов с четными индексами. [Код репозитория](https://github.com/Konkin-Ivan/js-arrays/tree/main/2_maximum_even)
+интервала [10, 50]. Найти максимальный среди элементов с четными индексами. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/2_maximum_even)
 3. Сформировать массив из 15 целых чисел, выбранных случайным образом из
-интервала [10, 90]. Поменять местами первый и минимальный элементы. [Код репозитория](https://github.com/Konkin-Ivan/js-arrays/tree/main/3_swap_first_minimum_elements)
+интервала [10, 90]. Поменять местами первый и минимальный элементы. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/3_swap_first_minimum_elements)
 4. Задан одномерный массив А[1..20]. Найти минимальный элемент среди
-элементов массива с n-го по k-й (n и k вводятся с клавиатуры) [Код репозитория](https://github.com/Konkin-Ivan/js-arrays/tree/main/4_minelement_k-n)
+элементов массива с n-го по k-й (n и k вводятся с клавиатуры) [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/4_minelement_k-n)
 5. Массив содержит 2n чисел. Из суммы первых n его элементов вычесть сумму
-последних n элементов. [Код репозитория](https://github.com/Konkin-Ivan/js-arrays/tree/main/5_substract_sum_n)
+последних n элементов. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/5_substract_sum_n)
 6. Заменить отрицательные элементы в числовом массиве из n чисел (n>10) их
-квадратами, оставив остальные без изменения. [Код репозитория](https://github.com/Konkin-Ivan/js-arrays/tree/main/6_replace_negative_elements_array_squares)
+квадратами, оставив остальные без изменения. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/6_replace_negative_elements_array_squares)
 7. В заданном массиве найти среднее арифметическое положительных чисел,
-среднее арифметическое отрицательных чисел и число нулей.
+среднее арифметическое отрицательных чисел и число нулей. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/7_arithmetic_mean)
 8. В массиве из 2n чисел найти сумму квадратов элементов с четными
 индексами и сумму кубов элементов с нечетными индексами.
 9. В заданном массиве найти максимальный элемент. Элементы, стоящие после
