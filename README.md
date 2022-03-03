@@ -18,9 +18,9 @@
 5. Массив содержит 2n чисел. Из суммы первых n его элементов вычесть сумму
 последних n элементов. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/5_substract_sum_n)
 6. Заменить отрицательные элементы в числовом массиве из n чисел (n>10) их
-квадратами, оставив остальные без изменения. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/6_replace_negative_elements_array_squares)
+квадратами, оставив остальные без изменения. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/6_task)
 7. В заданном массиве найти среднее арифметическое положительных чисел,
-среднее арифметическое отрицательных чисел и число нулей. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/7_arithmetic_mean)
+среднее арифметическое отрицательных чисел и число нулей. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/7_task)
 8. В массиве из 2n чисел найти сумму квадратов элементов с четными
 индексами и сумму кубов элементов с нечетными индексами. [Код задачи](https://github.com/Konkin-Ivan/js-arrays/tree/main/8_task)
 9. В заданном массиве найти максимальный элемент. Элементы, стоящие после
